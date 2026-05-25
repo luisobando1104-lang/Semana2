@@ -1,0 +1,5 @@
+Porque la terminal le da al desarrollador control, velocidad
+y comprensión real de cómo está organizado un proyecto.
+Aunque hoy existen interfaces gráficas muy cómodas,
+saber usar la línea de comandos sigue siendo una 
+habilidad fundamental en desarrollo de software.
